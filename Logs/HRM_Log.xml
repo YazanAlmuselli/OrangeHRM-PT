@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1754836509336,597,Get Login Page-1,200,OK,Buzz - Like and Comment on Post 1-1,true,,2700,1,1,597,1,0,DESKTOP-00NR06M
+1754836507902,597,Get Login Page,200,"Number of samples in transaction : 1, number of failing samples : 0",Buzz - Like and Comment on Post 1-1,true,,2700,1,1,597,1,0,DESKTOP-00NR06M
+1754836511641,1610,Login-6,200,OK,Buzz - Like and Comment on Post 1-1,true,,5244,1,1,1257,1,0,DESKTOP-00NR06M
+1754836514096,309,Login-9,200,OK,Buzz - Like and Comment on Post 1-1,true,,2555,1,1,309,1,0,DESKTOP-00NR06M
+1754836516820,253,Login-10,200,OK,Buzz - Like and Comment on Post 1-1,true,,1538,1,1,253,1,0,DESKTOP-00NR06M
+1754836517939,274,Login-11,200,OK,Buzz - Like and Comment on Post 1-1,true,,1445,1,1,274,1,0,DESKTOP-00NR06M
+1754836520131,721,Login-12,200,OK,Buzz - Like and Comment on Post 1-1,true,,17733,1,1,721,1,0,DESKTOP-00NR06M
+1754836523325,252,Login-13,200,OK,Buzz - Like and Comment on Post 1-1,true,,1562,1,1,252,1,0,DESKTOP-00NR06M
+1754836524586,323,Login-14,200,OK,Buzz - Like and Comment on Post 1-1,true,,1705,1,1,323,1,0,DESKTOP-00NR06M
+1754836526105,299,Login-15,200,OK,Buzz - Like and Comment on Post 1-1,true,,1598,1,1,299,1,0,DESKTOP-00NR06M
+1754836527818,261,Login-16,200,OK,Buzz - Like and Comment on Post 1-1,true,,1459,1,1,261,1,0,DESKTOP-00NR06M
+1754836529017,335,Login-17,200,OK,Buzz - Like and Comment on Post 1-1,true,,4067,1,1,335,1,0,DESKTOP-00NR06M
+1754836509935,4637,Login,200,"Number of samples in transaction : 10, number of failing samples : 0",Buzz - Like and Comment on Post 1-1,true,,38906,1,1,4284,1,0,DESKTOP-00NR06M
+1754836532693,295,Get Buzz Page-295,200,OK,Buzz - Like and Comment on Post 1-1,true,,3083,1,1,295,1,0,DESKTOP-00NR06M
+1754836536084,711,Get Buzz Page-296,200,OK,Buzz - Like and Comment on Post 1-1,true,,102732,1,1,384,1,0,DESKTOP-00NR06M
+1754836541220,255,Get Buzz Page-298,200,OK,Buzz - Like and Comment on Post 1-1,true,,4508,1,1,255,1,0,DESKTOP-00NR06M
+1754836545070,834,Get Buzz Page-300,200,OK,Buzz - Like and Comment on Post 1-1,true,,4508,1,1,834,1,0,DESKTOP-00NR06M
+1754836550303,272,Get Buzz Page-299,200,OK,Buzz - Like and Comment on Post 1-1,true,,1419,1,1,272,1,0,DESKTOP-00NR06M
+1754836554214,398,Get Buzz Page-297,200,OK,Buzz - Like and Comment on Post 1-1,true,,17733,1,1,398,1,0,DESKTOP-00NR06M
+1754836558718,424,Get Buzz Page-302,200,OK,Buzz - Like and Comment on Post 1-1,true,,34372,1,1,416,1,0,DESKTOP-00NR06M
+1754836529352,3189,Get Buzz Page,200,"Number of samples in transaction : 7, number of failing samples : 0",Buzz - Like and Comment on Post 1-1,true,,168355,1,1,2854,1,0,DESKTOP-00NR06M
+1754836559920,289,Comment and Like-337,200,OK,Buzz - Like and Comment on Post 1-1,true,,2039,1,1,289,1,0,DESKTOP-00NR06M
+1754836566116,300,Comment and Like-338,200,OK,Buzz - Like and Comment on Post 1-1,true,,1622,1,1,299,1,0,DESKTOP-00NR06M
+1754836568278,368,Comment and Like-339,200,OK,Buzz - Like and Comment on Post 1-1,true,,2350,1,1,368,1,0,DESKTOP-00NR06M
+1754836569562,604,Comment and Like-340,200,OK,Buzz - Like and Comment on Post 1-1,true,,1596,1,1,604,1,0,DESKTOP-00NR06M
+1754836559142,1561,Comment and Like,200,"Number of samples in transaction : 4, number of failing samples : 0",Buzz - Like and Comment on Post 1-1,true,,7607,1,1,1560,1,0,DESKTOP-00NR06M
+1754836573149,499,Logout-59,200,OK,Buzz - Like and Comment on Post 1-1,true,,4680,1,1,236,1,0,DESKTOP-00NR06M
+1754836575715,248,Logout-60,200,OK,Buzz - Like and Comment on Post 1-1,true,,2590,1,1,248,1,0,DESKTOP-00NR06M
+1754836578530,713,Logout-61,200,OK,Buzz - Like and Comment on Post 1-1,true,,102724,1,1,406,1,0,DESKTOP-00NR06M
+1754836570166,1460,Logout,200,"Number of samples in transaction : 3, number of failing samples : 0",Buzz - Like and Comment on Post 1-1,true,,109994,1,1,890,1,0,DESKTOP-00NR06M
