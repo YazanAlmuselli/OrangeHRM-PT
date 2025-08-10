@@ -1,10 +1,7 @@
 # OrangeHRM-PT
-Performance Testing of OrangeHRM website, Scenarios have been created and optimized to ensure the effectiveness of the SW, for each scenario, different type of PT is checked including Load, Stress, Kindly check the HTML report served by GitHub to understand and view the results of the testing
 
-
-OrangeHRM-PT
 OrangeHRM Performance Testing Project
-🚀 Overview
+🚀 Overview:
 This repository contains a fully-automated performance testing project for the OrangeHRM demo website, designed and executed using Apache JMeter. Every key transaction and user behavior has been simulated, tested, and validated to ensure accurate performance benchmarking and analysis.
 
 ✅ What’s Included
