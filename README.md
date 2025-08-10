@@ -4,7 +4,7 @@ OrangeHRM Performance Testing Project
 🚀 Overview:  
 This repository contains a fully-automated performance testing project for the OrangeHRM demo website, designed and executed using Apache JMeter. Every key transaction and   user behavior has been simulated, tested, and validated to ensure accurate performance benchmarking and analysis.  
 
-✅ What’s Included
+✅ What’s Included  
 ✔️ End-to-end Load Testing, Stress Testing, Spike Testing, and Endurance Testing  
 ✔️ Clean, modular test plan built with JMeter    
 ✔️ Scenario optimization to reflect real-world usage  
